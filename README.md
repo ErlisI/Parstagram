@@ -21,4 +21,5 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/vhS6nH9tQVXqYFctLA/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://media.giphy.com/media/vhS6nH9tQVXqYFctLA/giphy.gif
